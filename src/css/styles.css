@@ -18,3 +18,16 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+
+input {
+  height: 50px;
+  width: 500px;
+  text-align: center;
+  text-shadow: 5px;
+  border-color: #212121;
+  border-radius: 15px; 
+  background-color: rgb(224, 252, 245);
+
+}
+
